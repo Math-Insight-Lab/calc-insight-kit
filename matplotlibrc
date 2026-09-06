@@ -1,0 +1,10 @@
+# Matplotlib 配置文件 - 中文字体支持
+font.family: sans-serif
+font.sans-serif: Noto Sans CJK SC, Noto Sans CJK TC, Noto Sans CJK HK, Noto Sans CJK JP, Noto Sans CJK KR, WenQuanYi Micro Hei, WenQuanYi Zen Hei, Droid Sans Fallback, DejaVu Sans, Arial
+axes.unicode_minus: False
+font.size: 12
+axes.titlesize: 14
+axes.labelsize: 12
+savefig.dpi: 100
+savefig.format: png
+savefig.bbox: tight
